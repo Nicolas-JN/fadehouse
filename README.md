@@ -2,7 +2,7 @@
 
 SPA completa de gestão de barbearia: agendamento para clientes e painel administrativo full, num único arquivo HTML, sem backend, com persistência via `localStorage`.
 
-**[Ver demo ao vivo](#)** — *link do GitHub Pages, ativar em Settings → Pages → branch `main` → pasta `/root`*
+**[Ver demo ao vivo](https://nicolas-jn.github.io/fadehouse/)**
 
 ## Funcionalidades
 
@@ -38,7 +38,7 @@ cd fadehouse
 ```
 
 - Abra `index.html` direto no navegador, **ou**
-- Acesse a [demo ao vivo](#) publicada via GitHub Pages
+- Acesse a [demo ao vivo](https://nicolas-jn.github.io/fadehouse/) publicada via GitHub Pages
 
 ## Credenciais de demonstração
 
